@@ -1,0 +1,24 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.card{
+    width: 30%;
+    background-color: grey;
+}
+.image img{
+    
+    width: 20%;
+}
+/*.title{
+    text-align: center;
+}*/
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
